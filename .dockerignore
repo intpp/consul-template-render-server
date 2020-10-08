@@ -1,0 +1,4 @@
+.idea/
+src/
+Dockerfile
+tsconfig.json

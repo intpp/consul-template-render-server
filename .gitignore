@@ -1,0 +1,4 @@
+*.tpl
+.idea/
+dist/
+node_modules/
